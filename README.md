@@ -1,6 +1,6 @@
 # Sign Language Detection Using CNN
 
-This project aims to classify sign language for number 0 to 9 using Convolutional Neural Network. The classifier trained is able to correctly determine the example images and achieves relative high accuracy of above 90% on the test set.
+This project aims to classify sign language for number 0 to 9 using Convolutional Neural Network. The classifier trained is able to correctly determine all the example images and achieves relatively high accuracy of above 90% on the test set.
 
 ## Getting Started
 
